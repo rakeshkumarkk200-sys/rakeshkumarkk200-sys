@@ -1,3 +1,7 @@
+# rakeshkumarkk200-sys
+Python Developer | Aspiring Machine Learning Engineer Building projects with Python while developing a strong foundation in Machine Learning. Interested in AI, automation, and data-driven problem solving. Continuously learning and working towards real-world ML applications.
+
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/QT5hCCnd) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Rakesh Kumawat_7378) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rakesh-kumar-7bb358376) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@RakeshK82313065) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rakeshkumarkk200@gmail.com) 
 
